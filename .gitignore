@@ -1,0 +1,8 @@
+/bin/
+/lib/
+/include/
+/.ipynb_checkpoints/
+.Python
+.ipynb
+
+Iowa_Liquor_Sales.csv
